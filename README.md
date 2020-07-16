@@ -6,9 +6,20 @@
 
 ### 书单
 
+![js](assets/images/javascript.jpg)
+
 - ⭐️ [《JavaScript权威指南》(犀牛书)](https://item.jd.com/32657989288.html)
+
+![js](assets/images/js-hbs.jpg)
+
 - ⭐️ [《JavaScript高级程序设计》(红宝书)](https://item.jd.com/10951037.html)
+
+![js](assets/images/css.jpg)
+
 - ⭐️ [《CSS权威指南》(两条鱼)](https://item.jd.com/46236946774.html)
+
+![js](assets/images/js-hds.jpg)
+
 - ⭐️ [《JAVASCRIPT语言精粹》(蝴蝶书)](https://item.jd.com/1026353943.html)
 
 ## 中级(大)前端
@@ -25,6 +36,6 @@
 
 ![tinyhouse](assets/images/vv-ful-tinyhouse.png)
 
-- [Tiny House Project (newline)](https://www.newline.co/tinyhouse)
+- [**Tiny House Project (newline)**](https://www.newline.co/tinyhouse)
   - 一个全栈的开发实战项目 (两个来自韩国和美国的程序员主导)
   - 涉及了 React, Node, TypeScript, and GraphQL 等技术
