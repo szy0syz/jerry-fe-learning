@@ -2,7 +2,7 @@
 
 💯 🔥 最懂你的大前端学习资料整理
 
-[TOC]
+> **~长期更新~**
 
 ## 初级(大)前端
 
@@ -10,19 +10,19 @@
 
 ![js](assets/images/javascript.jpg)
 
-- ⭐️ [《JavaScript权威指南》(犀牛书)](https://item.jd.com/32657989288.html)
+- ⭐️ [《JavaScript 权威指南》(犀牛书)](https://item.jd.com/32657989288.html)
 
 ![js](assets/images/js-hbs.jpg)
 
-- ⭐️ [《JavaScript高级程序设计》(红宝书)](https://item.jd.com/10951037.html)
+- ⭐️ [《JavaScript 高级程序设计》(红宝书)](https://item.jd.com/10951037.html)
 
 ![js](assets/images/css.jpg)
 
-- ⭐️ [《CSS权威指南》(两条鱼)](https://item.jd.com/46236946774.html)
+- ⭐️ [《CSS 权威指南》(两条鱼)](https://item.jd.com/46236946774.html)
 
 ![js](assets/images/js-hds.jpg)
 
-- ⭐️ [《JAVASCRIPT语言精粹》(蝴蝶书)](https://item.jd.com/1026353943.html)
+- ⭐️ [《JAVASCRIPT 语言精粹》(蝴蝶书)](https://item.jd.com/1026353943.html)
 
 ## 中级(大)前端
 
@@ -56,17 +56,34 @@
 - [React & Node Tutorial - Full ECommerce in 5 Hours [2020]](https://www.youtube.com/watch?v=Fy9SdZLBTOo&feature=youtu.be)
   - 15 年经验老外，5 小时免费带你完成一个全栈项目（React / Node）
 
+![AnimatingReact](./assets/images/react-animatie.png)
+
+- [Animating React](https://www.leveluptutorials.com/tutorials/animating-react)
+
+![react-security](./assets/images/react-security.png)
+
+- [Advanced React Security Patterns](https://reactsecurity.io/advanced-react-security-patterns/)
+  - Refreshing JSON Web Tokens
+  - Switching to Cookies and Sessions
+  - Third-Party Authentication Providers
+  - Authentication and Authorization for GraphQL
+  - Authentication and Authorization for GatsbyJS
+  - Authentication and Authorization for Next.js
+  - Serverless Authentication
+
 ### 书单(高级)
 
-![philosophy](assets/images/Philosophy-of-Software.jpeg)
+<div style="inline">
+  <img src="./assets/images/Philosophy-of-Software.jpeg" width="210px" height="280px" />
+</div>
 
 - [《软件设计的哲学》中文翻译](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)
-- [《深入理解Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
+- [《深入理解 Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
 
 ## 泛前端 - Flutter
 
 ![yu2020](assets/images/yu2020.png)
 
 - [Google Flutter
-The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+  The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
   - 伦敦小姐姐讲解的非常非常详细
