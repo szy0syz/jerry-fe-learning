@@ -95,6 +95,7 @@
 
 - [《软件设计的哲学》中文翻译](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)
 - [《深入理解 Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
+- [**《React技术揭秘》**](https://react.iamkasong.com/)
 
 ## 泛前端 - Flutter
 
