@@ -34,6 +34,18 @@
   - 都是中级了，不了解 `DOM` 真的说不过去了
   - 如果错过了 `JQuery` 那年代没深入 `DOM`，不妨看看该课程
 
+![iwaa](assets/images/Interactive-Web-Animations.png)
+
+- [**Interactive Web Animations**](https://www.udemy.com/course/interactive-web-animations-javascript-svg-css-html/)
+
+![iwaa2](assets/images/API-Design-in-Nodejs-v3.png)
+
+- [**API Design in Node.js v3**](https://frontendmasters.com/workshops/api-design-node-v3/)
+
+![iwaa3](assets/images/js-Recent-Parts.png)
+
+- [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/)
+
 ### 教程(中级)
 
 ![react-im1](assets/images/react-im-1.png)
@@ -70,6 +82,10 @@
   - Authentication and Authorization for GatsbyJS
   - Authentication and Authorization for Next.js
   - Serverless Authentication
+
+![NestJS-Fundamentals](assets/images/NestJS-Fundamentals.png)
+
+- [**NestJS Fundamentals Course**](https://courses.nestjs.com/)
 
 ### 书单(高级)
 
