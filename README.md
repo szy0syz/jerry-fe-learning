@@ -46,6 +46,10 @@
 
 - [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/)
 
+![aa23](assets/images/react-2025.png)
+
+- [React 2025 Modern Applications with the Jamstack](https://react2025.com/)
+
 ### 教程(中级)
 
 ![react-im1](assets/images/react-im-1.png)
@@ -70,7 +74,7 @@
 
 ![AnimatingReact](./assets/images/react-animatie.png)
 
-- [Animating React](https://www.leveluptutorials.com/tutorials/animating-react)
+- ⭐️[Animating React](https://www.leveluptutorials.com/tutorials/animating-react)
 
 ![react-security](./assets/images/react-security.png)
 
@@ -85,7 +89,7 @@
 
 ![NestJS-Fundamentals](assets/images/NestJS-Fundamentals.png)
 
-- [**NestJS Fundamentals Course**](https://courses.nestjs.com/)
+- ⭐️⭐️ [**NestJS Fundamentals Course**](https://courses.nestjs.com/)
 
 ### 书单(高级)
 
@@ -95,7 +99,7 @@
 
 - [《软件设计的哲学》中文翻译](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)
 - [《深入理解 Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
-- [**《React技术揭秘》**](https://react.iamkasong.com/)
+- ⭐️⭐️⭐️ [**《React技术揭秘》**](https://react.iamkasong.com/)
 
 ## 泛前端 - Flutter
 
