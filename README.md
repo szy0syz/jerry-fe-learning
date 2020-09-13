@@ -50,6 +50,10 @@
 
 - [React 2025 Modern Applications with the Jamstack](https://react2025.com/)
 
+![aa24](assets/images/Modern-Flexbox.png)
+
+- [The Modern Flexbox, Grid, Sass & Animations Developer Course](https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/)
+
 ### 教程(中级)
 
 ![react-im1](assets/images/react-im-1.png)
