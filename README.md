@@ -54,6 +54,10 @@
 
 - [The Modern Flexbox, Grid, Sass & Animations Developer Course](https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/)
 
+![aa24](assets/images/rquery.png)
+
+- [React Query Essentials Course](https://learn.tanstack.com/)
+
 ### 教程(中级)
 
 ![react-im1](assets/images/react-im-1.png)
@@ -112,3 +116,15 @@
 - [Google Flutter
   The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
   - 伦敦小姐姐讲解的非常非常详细
+
+## 泛前端 - 设计
+
+![apis](assets/images/apis.png)
+
+- [Introduction to APIs - REST API, GraphQL, SOAP Web Services](https://www.udemy.com/course/introduction-to-apis-rest-api-graphql-soap-web-services-grpc/)
+
+> Understand how HTTP works. Use tools like Postman and learn about JSON, XML.
+
+![linux](assets/images/linuxf.png)
+
+- [Linux System Programming 2020](https://www.udemy.com/course/linux-system-programming-f/)
